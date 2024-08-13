@@ -5,7 +5,7 @@ function login()
     
     if(user == "admin" && password == "admin")
     {
-        location.href="ElZarape/HTML/principal.html";
+        location.href="HTML/principal.html";
     }
     else
     {
