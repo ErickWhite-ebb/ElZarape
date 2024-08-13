@@ -5,7 +5,7 @@ function login()
     
     if(user == "admin" && password == "admin")
     {
-        location.href="http://localhost:8080/ElZarape/HTML/principal.html";
+        location.href="ElZarape/HTML/principal.html";
     }
     else
     {
