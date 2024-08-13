@@ -5,7 +5,7 @@ function login()
     
     if(user == "admin" && password == "admin")
     {
-        location.href="HTML/principal.html";
+        location.href="https://erickwhite-ebb.github.io/ElZarape/HTML/principal.html";
     }
     else
     {
