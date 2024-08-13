@@ -1,13 +1,13 @@
 body
 {
-    background-image: url("MEDIA/comidaF.jpg");
+    background-image: url("https://erickwhite-ebb.github.io/ElZarape/MEDIA/comidaF.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 header
 {
-     background-image: url("MEDIA/Tittle.jpg");
+     background-image: url("https://erickwhite-ebb.github.io/ElZarape/MEDIA/Tittle.jpg");
      color: white;
      
 }
@@ -36,7 +36,7 @@ header
 }
 footer
 {
-     background-image: url("MEDIA/Tittle.jpg");
+     background-image: url("https://erickwhite-ebb.github.io/ElZarape/MEDIA/Tittle.jpg");
      color: white;
      
 }
